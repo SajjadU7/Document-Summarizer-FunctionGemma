@@ -1,0 +1,7 @@
+torch
+transformers
+accelerate
+pypdf
+python-docx
+python-pptx
+PyQt6
